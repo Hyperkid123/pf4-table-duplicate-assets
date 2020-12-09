@@ -1,0 +1,3 @@
+- install dependencies npm/yarn
+- npm run/yarn build
+  - webpack bundle analyzer will pop up and you should see duplicate PF assets for commonjs/esm builds
